@@ -44,17 +44,17 @@ aws account, git and npm
 
 some react code
 
-![react_1](./src/img/react_1.png)
+![react_1](./src/img/react_1.PNG)
 
-![react_2](./src/img/react_2.png)
+![react_2](./src/img/react_2.PNG)
 
 ##### Lambda
 
-![lambda_1](./src/img/lambda_1.png)
+![lambda_1](./src/img/lambda_1.PNG)
 
 ##### Api Gateway
 
-![apigateway_1](./src/img/apigateway_1.png)
+![apigateway_1](./src/img/apigateway_1.PNG)
 
 ##### S3
 
@@ -65,15 +65,15 @@ files
 
 permissions
 
-![s3_1](./src/img/s3_1.png)
+![s3_1](./src/img/s3_1.PNG)
 
 redirect
 
-![s3_3](./src/img/s3_3.png)
+![s3_3](./src/img/s3_3.PNG)
 
 ##### Dynamo
 
-![dynamo_1](./src/img/dynamo_1.png)
+![dynamo_1](./src/img/dynamo_1.PNG)
 
 ## Evidences
 
@@ -81,11 +81,11 @@ AWS
 
 http://clients-hosting-code-test.s3-website-us-east-1.amazonaws.com/
 
-![aws](./src/img/aws.png)
+![aws](./src/img/aws.PNG)
 
 Local
 
-![localhost](./src/img/localhost.png)
+![localhost](./src/img/localhost.PNG)
 
 ## Contribution
 
