@@ -1,6 +1,6 @@
 # Project
 
-A code exam for a job position using react,node and aws services (lambda, s3,dynamo db and api gateway)
+A code exam for a job position using react and aws services (lambda, s3,dynamo db and api gateway)
 
 ## Tabla de Contenidos
 
@@ -14,7 +14,7 @@ A code exam for a job position using react,node and aws services (lambda, s3,dyn
 
 ## Requirements
 
-aws account, git, node and npm
+aws account, git and npm
 
 ## Architecture
 
